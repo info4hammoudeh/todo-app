@@ -2,3 +2,7 @@ This is the Registration and Login feature file!!
 
 
 Add login endpoint and JWT auth
+
+
+Add password hashing
+
