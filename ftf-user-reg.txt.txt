@@ -1,0 +1,13 @@
+This is the Registration and Login feature file!!
+
+
+Add login endpoint and JWT auth
+
+
+Add password hashing
+
+
+
+BUG FIX: Fix email format validation on registration ******
+
+CRITICAL BUG FIX: ON UAT
