@@ -6,3 +6,6 @@ Add login endpoint and JWT auth
 
 Add password hashing
 
+
+
+BUG FIX: Fix email format validation on registration ******
